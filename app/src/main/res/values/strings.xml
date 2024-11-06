@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EjercicioRepaso04</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="figuras">
+        <item>Cubo</item>
+        <item>Prisma</item>
+        <item>Pirámide</item>
+        <item>Cilindro</item>
+        <item>Cono</item>
+        <item>Esfera</item>
+    </string-array>
+</resources>
